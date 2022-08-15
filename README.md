@@ -22,7 +22,7 @@
         
    
 
-![5419b2aed8c7b38001171d2f190ab8dc](https://user-images.githubusercontent.com/106503516/184654652-5922d6b2-d7a0-411d-ac1a-6a62580bc35e.gif)
+<img src="https://i.pinimg.com/originals/54/19/b2/5419b2aed8c7b38001171d2f190ab8dc.gif">
 
  
 
