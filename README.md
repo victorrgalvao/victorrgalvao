@@ -5,7 +5,7 @@
 
 👨‍💻 Estudando front-end
 
-<div align="center" display="inline">
+<div align="center" display="inline-block">
   <a href="https://github.com/victorrgalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrgalvao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrgalvao&layout=compact&langs_count=7&theme=tokyonight"/>
