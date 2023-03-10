@@ -1,6 +1,6 @@
 
 <div>
-<h1 style="color:#f03c15;">はじめまして。私 の名前はビクターです。</h1>
+<h1>はじめまして。私 の名前はビクターです。</h1>
 
 <h2>Prazer em conhecer. Meu nome é João Victor mas pode me chamar só de Vi.</h2>
 
