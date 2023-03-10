@@ -10,7 +10,7 @@
   <a href="https://github.com/victorrgalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrgalvao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrgalvao&layout=compact&langs_count=7&theme=tokyonight"/>
-     <div margin:0px auto>
+     <div margin:auto 0px>
   <img height="200px" width:"200px" src="https://i.pinimg.com/564x/4f/12/af/4f12af20dae5179cf60a5057da761473.jpg">
 </div>
  
