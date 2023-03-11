@@ -25,8 +25,6 @@
         
 </div>
         
-![H52h](https://user-images.githubusercontent.com/106503516/224461192-b3f214e1-272b-4b47-9167-756823c7551d.gif)
 
-![Lc2d]( https://user-images.githubusercontent.com/106503516/224461338-be1e6b52-b6da-478b-9e4b-2fa3f9cdef7a.gif)
 
- <p align="center"><img height="400px" width="50%" src="assets/H52h.gif"></p>
+ <p align="center"><img height="400px" width="50%" src="assets/H52h.gif"><img height="400px" width="50%" src="assets/H52h.gif"></p>
