@@ -12,7 +12,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrgalvao&layout=compact&langs_count=7&theme=tokyonight"/>
      <div  >
   <img  height="200px" width="200px" src="https://i.pinimg.com/564x/4f/12/af/4f12af20dae5179cf60a5057da761473.jpg">
- <img  alt="Rafa-CSS" height="200px" width="100%" src="https://i.pinimg.com/564x/76/4c/23/764c23fac3d70583f64e289aac7fef65.jpg">
+ <img  alt="Rafa-CSS" height="400px" width="100%" src="https://i.pinimg.com/564x/76/4c/23/764c23fac3d70583f64e289aac7fef65.jpg">
 </div>
  
         
