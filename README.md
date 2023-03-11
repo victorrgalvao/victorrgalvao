@@ -17,7 +17,7 @@
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
  
-  <p align="center"><img height="200px" width="50%" src="assets/Mf08.gif"><img height="300px" width="100%" src="assets/H52h.gif"></p>
+  <p align="center"><img height="300px" width="100%" src="assets/Mf08.gif"><img height="300px" width="100%" src="assets/H52h.gif"></p>
 
         
 
